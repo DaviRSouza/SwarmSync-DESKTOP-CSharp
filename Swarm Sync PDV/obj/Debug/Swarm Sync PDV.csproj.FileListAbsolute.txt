@@ -1,0 +1,13 @@
+C:\Users\Aluno\source\repos\Swarm Sync PDV\Swarm Sync PDV\bin\Debug\Swarm Sync PDV.exe.config
+C:\Users\Aluno\source\repos\Swarm Sync PDV\Swarm Sync PDV\bin\Debug\Swarm Sync PDV.exe
+C:\Users\Aluno\source\repos\Swarm Sync PDV\Swarm Sync PDV\bin\Debug\Swarm Sync PDV.pdb
+C:\Users\Aluno\source\repos\Swarm Sync PDV\Swarm Sync PDV\obj\Debug\Swarm Sync PDV.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Swarm Sync PDV\Swarm Sync PDV\obj\Debug\Swarm_Sync_PDV.frmPrincipal.resources
+C:\Users\Aluno\source\repos\Swarm Sync PDV\Swarm Sync PDV\obj\Debug\Swarm_Sync_PDV.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Swarm Sync PDV\Swarm Sync PDV\obj\Debug\Swarm Sync PDV.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Swarm Sync PDV\Swarm Sync PDV\obj\Debug\Swarm Sync PDV.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Swarm Sync PDV\Swarm Sync PDV\obj\Debug\Swarm Sync PDV.exe
+C:\Users\Aluno\source\repos\Swarm Sync PDV\Swarm Sync PDV\obj\Debug\Swarm Sync PDV.pdb
+C:\Users\Aluno\source\repos\Swarm Sync PDV\Swarm Sync PDV\obj\Debug\Swarm_Sync_PDV.Cadastro.frmFuncionario.resources
+C:\Users\Aluno\source\repos\Swarm Sync PDV\Swarm Sync PDV\obj\Debug\Swarm_Sync_PDV.Cadastro.frmCargo.resources
+C:\Users\Aluno\source\repos\Swarm Sync PDV\Swarm Sync PDV\obj\Debug\Swarm_Sync_PDV.Cadastro.Clientes.resources
